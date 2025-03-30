@@ -1,8 +1,8 @@
 ## Hi, I'm Rithwik ✨
 
-  🧠 Computer Science Student
-  ❤️‍🔥 Passionate about **Building Scalable Web App
-  💻 Full Stack Developer | 🚀 DSA Enthusiast | 🎨 UI/UX Designer  
+  🧠 Computer Science Student</br>
+  ❤️‍🔥 Passionate about **Building Scalable Web App</br>
+  💻 Full Stack Developer | 🚀 DSA Enthusiast | 🎨 UI/UX Designer</br>  
 
 
 
