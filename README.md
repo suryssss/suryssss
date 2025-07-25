@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rithwik</h1>
+ <h1 align="center">Hi 👋, I'm Rithwik</h1>
 
 🧠 Computer Science Student</br>
 ❤️‍🔥 Passionate about **Building Scalable Web App**</br>
