@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Machine Learning,Next JS**
 - 💬 Ask me about **react,framer motion,Gsap**
 - 📫 How to reach me **surya.rithwik2005@gmail.com**
-- ⚡ Fun fact **I just love animeee!!!**
+- ⚡ Fun fact **I can go from coding complex UIs to watching 12 episodes of anime — in one sitting. No bugs in that logic!**
 
 
 
