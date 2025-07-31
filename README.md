@@ -5,6 +5,12 @@
 🧠 Computer Science Student</br>
 ❤️‍🔥 Passionate about **Building Scalable Web App**</br>
 💻 Full Stack Developer | 🚀 DSA Enthusiast | 🎨 UI/UX Designer</br>  
+- 🔭 I’m currently working on **skillstones**
+- 🌱 I’m currently learning **Machine Learning,Next JS**
+- 💬 Ask me about **react,framer motion,Gsap**
+- 📫 How to reach me **surya.rithwik2005@gmail.com**
+- ⚡ Fun fact **I just love animeee!!!**
+
 
 
 # 💻 Tech Stack:
