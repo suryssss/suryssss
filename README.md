@@ -1,5 +1,9 @@
  <h1 align="center">Hi 👋, I'm Rithwik</h1>
 <h3 align="center">👨‍💻 Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer</h3>
+<p align="center">
+  <img src="https://lottiefiles.com/free-animation/young-programmers-working-with-computer-b46FFl7pVr" width="250" />
+</p>
+
 
 
 🧠 Computer Science Student</br>
