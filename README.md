@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rithwik</h1>
 <h3 align="center">👨‍💻 Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer</h3>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7f61a069-6426-47ad-b4a1-9633522a1b6d" width="100" />
-</p>
-
 
 
 
@@ -15,7 +11,7 @@
 - 🌱 I’m currently learning **Machine Learning,Next JS**
 - 💬 Ask me about **react,framer motion,Gsap**
 - 📫 How to reach me **surya.rithwik2005@gmail.com**
-- ⚡ Fun fact **I can go from coding complex UIs to watching 12 episodes of anime — in one sitting. No bugs in that logic!**
+- ⚡ Fun fact **I can go from coding complex UIs to watching 12 episodes of anime — in one sitting. No bugs in that logic!**|<img src="https://github.com/suryssss/suryssss/blob/output/github-snake-dark.svg" width="180" />|
 
 
 
