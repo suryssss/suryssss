@@ -1,8 +1,9 @@
- <h1 align="center">Hi 👋, I'm Rithwik</h1>
+<h1 align="center">Hi 👋, I'm Rithwik</h1>
 <h3 align="center">👨‍💻 Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d4686798-b48e-411b-975a-2a8523c4b535" width="250" />
+  <img src="https://github.com/user-attachments/assets/1f860e4b-7212-4988-b01f-bac12f61bb3d" width="250" />
 </p>
+
 
 
 
