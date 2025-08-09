@@ -5,7 +5,6 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/f34116f3-7055-4ff4-9f41-1457d6245970" width="250"/>
 
-### 👩‍💻 Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer  
 🧠 Computer Science Student  
 ❤️ Passionate about **Building Scalable Web App**  
 💻 Full Stack Developer | 🚀 DSA Enthusiast | 🎨 UI/UX Designer  
