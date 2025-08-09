@@ -2,16 +2,25 @@
 <h3 align="center">👨‍💻 Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer</h3>
 
 
+<table>
+  <tr>
+    <td>
+      🧠 Computer Science Student<br/>
+      ❤️‍🔥 Passionate about <strong>Building Scalable Web App</strong><br/>
+      💻 Full Stack Developer | 🚀 DSA Enthusiast | 🎨 UI/UX Designer<br/><br/>
+      🔭 I’m currently working on <strong>skillstones</strong><br/>
+      🌱 I’m currently learning <strong>Machine Learning, Next JS</strong><br/>
+      💬 Ask me about <strong>react, framer motion, Gsap</strong><br/>
+      📫 How to reach me <strong>surya.rithwik2005@gmail.com</strong><br/>
+      ⚡ Fun fact <strong>I can go from coding complex UIs to watching 12 episodes of anime — in one sitting. No bugs in that logic!</strong>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/f82e5e1a-6937-4935-b4c5-7f45e8cf8664" width="250"/>
+    </td>
+  </tr>
+</table>
 
 
-🧠 Computer Science Student</br>
-❤️‍🔥 Passionate about **Building Scalable Web App**</br>
-💻 Full Stack Developer | 🚀 DSA Enthusiast | 🎨 UI/UX Designer</br>  
-- 🔭 I’m currently working on **skillstones**
-- 🌱 I’m currently learning **Machine Learning,Next JS**
-- 💬 Ask me about **react,framer motion,Gsap**
-- 📫 How to reach me **surya.rithwik2005@gmail.com**
-- ⚡ Fun fact **I can go from coding complex UIs to watching 12 episodes of anime — in one sitting. No bugs in that logic!**|<img src="https://github.com/suryssss/suryssss/blob/output/github-snake-dark.svg" width="180" />|
 
 
 
