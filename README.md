@@ -2,22 +2,21 @@
 <h3 align="center">👨‍💻 Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer</h3>
 
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div>
-    <h3>👩‍💻 Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer</h3>
-    <p>🧠 Computer Science Student</p>
-    <p>❤️ Passionate about <strong>Building Scalable Web App</strong></p>
-    <p>💻 Full Stack Developer | 🚀 DSA Enthusiast | 🎨 UI/UX Designer</p>
-    <p>🔭 I’m currently working on <strong>skillstones</strong></p>
-    <p>🌱 I’m currently learning <strong>Machine Learning, Next JS</strong></p>
-    <p>💬 Ask me about <strong>react, framer motion, Gsap</strong></p>
-    <p>📫 How to reach me <strong>surya.rithwik2005@gmail.com</strong></p>
-    <p>⚡ Fun fact <strong>I can go from coding complex UIs to watching 12 episodes of anime — in one sitting. No bugs in that logic!</strong></p>
-  </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/c4ff9332-d91e-4290-a798-a73df14d81b0" width="200"/>
-  </div>
-</div>
+
+<img align="right" src="https://github.com/user-attachments/assets/f34116f3-7055-4ff4-9f41-1457d6245970" width="250"/>
+
+### 👩‍💻 Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer  
+🧠 Computer Science Student  
+❤️ Passionate about **Building Scalable Web App**  
+💻 Full Stack Developer | 🚀 DSA Enthusiast | 🎨 UI/UX Designer  
+
+🔭 I’m currently working on **skillstones**  
+🌱 I’m currently learning **Machine Learning, Next JS**  
+💬 Ask me about **react, framer motion, Gsap**  
+📫 How to reach me **surya.rithwik2005@gmail.com**  
+⚡ Fun fact **I can go from coding complex UIs to watching 12 episodes of anime — in one sitting. No bugs in that logic!**
+
+  
 
 
 
