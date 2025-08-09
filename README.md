@@ -2,9 +2,9 @@
 <h3 align="center">👨‍💻 Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer</h3>
 
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
+    <td valign="top">
       🧠 Computer Science Student<br/>
       ❤️‍🔥 Passionate about <strong>Building Scalable Web App</strong><br/>
       💻 Full Stack Developer | 🚀 DSA Enthusiast | 🎨 UI/UX Designer<br/><br/>
@@ -14,11 +14,12 @@
       📫 How to reach me <strong>surya.rithwik2005@gmail.com</strong><br/>
       ⚡ Fun fact <strong>I can go from coding complex UIs to watching 12 episodes of anime — in one sitting. No bugs in that logic!</strong>
     </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/f82e5e1a-6937-4935-b4c5-7f45e8cf8664" width="250"/>
+    <td valign="top" align="right">
+      <img src="https://github.com/user-attachments/assets/316cb548-cbb3-4591-bd48-1fe1c4730c10" width="250"/>
     </td>
   </tr>
 </table>
+
 
 
 
