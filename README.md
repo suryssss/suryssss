@@ -2,21 +2,23 @@
 <h3 align="center">👨‍💻 Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer</h3>
 
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
   <div>
-    🧠 Computer Science Student<br/>
-    ❤️‍🔥 Passionate about <strong>Building Scalable Web App</strong><br/>
-    💻 Full Stack Developer | 🚀 DSA Enthusiast | 🎨 UI/UX Designer<br/><br/>
-    🔭 I’m currently working on <strong>skillstones</strong><br/>
-    🌱 I’m currently learning <strong>Machine Learning, Next JS</strong><br/>
-    💬 Ask me about <strong>react, framer motion, Gsap</strong><br/>
-    📫 How to reach me <strong>surya.rithwik2005@gmail.com</strong><br/>
-    ⚡ Fun fact <strong>I can go from coding complex UIs to watching 12 episodes of anime — in one sitting. No bugs in that logic!</strong>
+    <h3>👩‍💻 Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer</h3>
+    <p>🧠 Computer Science Student</p>
+    <p>❤️ Passionate about <strong>Building Scalable Web App</strong></p>
+    <p>💻 Full Stack Developer | 🚀 DSA Enthusiast | 🎨 UI/UX Designer</p>
+    <p>🔭 I’m currently working on <strong>skillstones</strong></p>
+    <p>🌱 I’m currently learning <strong>Machine Learning, Next JS</strong></p>
+    <p>💬 Ask me about <strong>react, framer motion, Gsap</strong></p>
+    <p>📫 How to reach me <strong>surya.rithwik2005@gmail.com</strong></p>
+    <p>⚡ Fun fact <strong>I can go from coding complex UIs to watching 12 episodes of anime — in one sitting. No bugs in that logic!</strong></p>
   </div>
   <div>
-    <img src="https://github.com/user-attachments/assets/423cb7f2-7510-4b0b-ac43-4aa6624a53f0" width="250"/>
+    <img src="https://github.com/user-attachments/assets/c4ff9332-d91e-4290-a798-a73df14d81b0" width="200"/>
   </div>
 </div>
+
 
 
 
