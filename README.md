@@ -1,3 +1,4 @@
+[![An image of @suryssss's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suryssss)](https://holopin.io/@suryssss)
 <h1 align="center">Hi 👋, I'm Rithwik</h1>
 <h3 align="center">👨‍💻 Pre-final year student| Full-Stack Developer | DSA Enthusiast |  UI/UX Designer</h3>
 
