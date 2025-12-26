@@ -32,7 +32,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=suryssss&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suryssss&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryssss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryssss)](https://github.com/suryssss/github-readme-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=suryssss&icon=1&color=0)](https://visitcount.itsvg.in)
 <h3 align="center">Connect with me:</h3>
