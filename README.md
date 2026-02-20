@@ -33,6 +33,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suryssss&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![Top Languages](https://github-readme-stats-two-wine-66.vercel.app/api/top-langs/?username=suryssss&theme=tokyonight&hide_border=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats-two-wine-66.vercel.app/api?username=suryssss&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage&hide_border=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=suryssss&icon=1&color=0)](https://visitcount.itsvg.in)
 <h3 align="center">Connect with me:</h3>
